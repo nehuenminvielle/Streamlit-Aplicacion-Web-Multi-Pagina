@@ -1,4 +1,5 @@
-Proyecto de Streamlit: Aplicación de Demostración
+Proyecto de Streamlit: 
+Aplicación de Demostración
 Esta es una aplicación de demostración creada con Streamlit que permite a los usuarios cargar archivos CSV para visualizar datos y crear gráficos interactivos.
 
 Descripción del Proyecto
